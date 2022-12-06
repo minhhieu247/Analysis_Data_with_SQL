@@ -5,3 +5,5 @@ Market Basket Analysis can be well explained by answering this simple question. 
 Applications of Market Basket Analysis — Product Placements — Marketing Messages — Affinity Promotions — Inventory Management — Fraud Detections — Customer Behavior — Content Placements.
 Link Download database .bak: https://github.com/Microsoft/sql-server-samples/releases/download/adventureworks/AdventureWorksDW2019.bak
 File SQl: Market_Basket_Analysis.sql 
+2.  Returing and average sales per day with SQl.
+Database above!
